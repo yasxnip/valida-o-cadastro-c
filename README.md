@@ -1,5 +1,6 @@
 # validacao cadastro c
 Projeto em C para verificação de cadastro de usuário
+
 Sistema de Validação de Cadastro em C
 
 Projeto simples desenvolvido em C com o objetivo de validar dados de entrada do usuário.
